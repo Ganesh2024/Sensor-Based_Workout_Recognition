@@ -43,13 +43,21 @@ The system is designed to assist in **fitness monitoring and performance analysi
 ## 📂 Project Structure  
 
 BearBallExercisePrediction/
+
 │── data/ # Dataset (exercise data)
+
 │── notebooks/ # Jupyter notebooks (EDA, training, testing)
+
 │── src/ # Source code for preprocessing, training, prediction
+
 │── models/ # Saved trained models
+
 │── results/ # Evaluation reports and plots
+
 │── requirements.txt # Python dependencies
+
 │── environment.yml # Conda environment setup
+
 │── README.md # Project documentation
 
 ---
