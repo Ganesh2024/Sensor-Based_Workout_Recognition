@@ -1,12 +1,12 @@
 # Save the polished README content into the existing README.md file
 
-# Bear Ball Exercise Prediction 🏋️‍♂️  
+#  Sensor Based Workout Recognition🏋️‍♂️  
 
 ## 📌 Overview  
 
-This project predicts **Bear Ball exercise types** and counts the **number of repetitions** performed by a user in real-time.  
+This project predicts **Barbell exercise types** and counts the **number of repetitions** performed by a user in real-time.  
 
-It focuses on 5 major Bear Ball exercises (e.g., Squat, Row, etc.) and uses **machine learning models** to classify the exercise being performed with high accuracy.  
+It focuses on 5 major Barbell exercises (e.g., Squat, Row, etc.) and uses **machine learning models** to classify the exercise being performed with high accuracy.  
 
 The system is designed to assist in **fitness monitoring and performance analysis**, making workouts smarter and trackable.  
 
@@ -42,7 +42,7 @@ The system is designed to assist in **fitness monitoring and performance analysi
 
 ## 📂 Project Structure  
 
-BearBallExercisePrediction/
+Sensor_Based_Workout_Recognition/
 
 │── data/ # Dataset (exercise data)
 
